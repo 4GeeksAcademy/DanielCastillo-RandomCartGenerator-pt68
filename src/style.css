@@ -4,10 +4,10 @@ body{
     background: green;
 }
 
-#card-container {
-    background-color: white;
-    width: 300px;
-    height: 450px;
+#card {
+    background-color: rgb(51, 51, 51);
+    width: 150px;
+    height: 225px;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -17,8 +17,8 @@ body{
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 
-#number {
-    font-size: 100px;
+#Value {
+    font-size: 50px;
     align-self: center;
 }
 
@@ -28,7 +28,7 @@ body{
 }
 
 #top-suit, #bottom-suit {
-    font-size: 70px;
+    font-size: 35px;
     line-height: 1;
       
 
